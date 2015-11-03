@@ -1,0 +1,56 @@
+E:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\Content\Ballhedition.xnb
+E:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\Content\player1he.xnb
+E:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\Breakout Assessment.exe
+E:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\Breakout Assessment.pdb
+E:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\MonoGame.Framework.dll
+E:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\SharpDX.dll
+E:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\SharpDX.XInput.dll
+E:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\MonoGame.Framework.xml
+E:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\SharpDX.xml
+E:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\SharpDX.XInput.xml
+E:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\obj\x86\Debug\Breakout Assessment.csprojResolveAssemblyReference.cache
+E:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\obj\x86\Debug\Breakout Assessment.exe
+E:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\obj\x86\Debug\Breakout Assessment.pdb
+E:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\Content\brick.xnb
+F:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\obj\x86\Debug\Breakout Assessment.exe
+F:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\obj\x86\Debug\Breakout Assessment.pdb
+F:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\obj\x86\Debug\Breakout Assessment.csprojResolveAssemblyReference.cache
+F:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\Content\Ballhedition.xnb
+F:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\Content\brick.xnb
+F:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\Content\player1he.xnb
+F:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\Breakout Assessment.exe
+F:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\Breakout Assessment.pdb
+F:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\MonoGame.Framework.dll
+F:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\SharpDX.dll
+F:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\SharpDX.XInput.dll
+F:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\MonoGame.Framework.xml
+F:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\SharpDX.xml
+F:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\SharpDX.XInput.xml
+F:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\College\H\Games Programming\Breakout Assessment\Breakout Assessment\Breakout Assessment\bin\Windows\Debug\SharpDX.Direct3D9.xml

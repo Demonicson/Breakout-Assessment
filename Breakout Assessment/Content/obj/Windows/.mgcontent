@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/College/H/Games Programming/Breakout Assessment/Breakout Assessment/Breakout Assessment/Content/Ballhedition.png</File>
+    <File>E:/College/H/Games Programming/Breakout Assessment/Breakout Assessment/Breakout Assessment/Content/player1he.png</File>
+    <File>E:/College/H/Games Programming/Breakout Assessment/Breakout Assessment/Breakout Assessment/Content/brick.png</File>
+  </SourceFiles>
+</SourceFileCollection>
